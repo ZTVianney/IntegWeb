@@ -1,11 +1,21 @@
 .header{
 	position: fixed;
 	width: 100%;
+	font-size: 3vh; 
+	font-family: couture;
 
 	.header--title{
 		height: 5vh;
 		width: 100%;
 		background-color: white;
+		padding-top: 1vh;
+		
+
+		&::first-letter{
+			color: red;
+		}
+
+
 	}
 	.header--menu{
 		height: 5vh;
@@ -13,6 +23,19 @@
 		background-color: black;
 		color: white;
 		text-align: right;
+		padding-top: 1vh;
+
+		a{
+			margin-right: 10px;
+			text-decoration: none;
+			color: white;
+			&:link{
+				color: white;
+			}
+			&:hover{
+				color: red;
+			}
+		}
 	}
 }
 

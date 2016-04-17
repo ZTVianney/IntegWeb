@@ -9,7 +9,7 @@
 <body>
 	
 	<section class="header">
-		<div class="header--title">Dossier</div>
+		<div class="header--title">Dossier : League of Legends</div>
 		<div class="header--menu">
 			<a href="#">Intro</a> | <a href="#goal">1</a> | <a href="#player">2</a> | <a href="#champ">3</a> | <a href="#around">4</a>
 		</div>
@@ -18,7 +18,7 @@
 
 	<section class="intro" id="intro">
 		<div class="presentation"> 
-			<h1>DOSSIER : League of Legends</h1> 
+			<h1>Découverte: League of Legends</h1> 
 		</div>
 		<div class="content">
 			<h3>League of Legends, c'est quoi ?</h3>
@@ -73,7 +73,7 @@
 
 
 	<section class="footer">
-		
+		<div class="copyright">Vianney Cuvelier - 2016</div>
 	</section>
 
 </body>
