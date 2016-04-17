@@ -11,7 +11,7 @@
 	<section class="header">
 		<div class="header--title">Dossier : League of Legends</div>
 		<div class="header--menu">
-			<a href="#">Intro</a> | <a href="#goal">1</a> | <a href="#player">2</a> | <a href="#champ">3</a> | <a href="#around">4</a>
+			<a href="#">Intro</a> | <a href="#goal">1</a> | <a href="#player">2</a> | <a href="#champ">3</a> <!--| <a href="#around">4</a> -->
 		</div>
 	</section>
 	
@@ -47,7 +47,27 @@
 			<h2>2. Le joueur</h2>
 		</div>
 		<div class="content">
-			
+			<h3>Quel est le rôle du joueur ?</h3>
+			<p>La carte principale de League of Legends est composée de 3 voies (chemin), séparé par une zone plus sauvage (la jungle).Avant chaque partie, le joueur se doit donc de choisir sa voie: sur quelle partie de la carte que le joueur devra prendre contrôle, son rôle dans l'équipe changeant énormément en fonction de son choix. Chaque joueur a donc la possibilité de se spécialisé dans un de ces rôles, ou alors de varier pour explorer et faire varier les différentes façons de jouer.
+			Ainsi, 5 possibilité s'offrent à lui: TopLaner, MidLaner, ADC, Support ou Jungler </p>
+			<div class="player--role">				
+				TopLaner : Le toplaner a pour but d'avancer et de progresser seul sur la voie du haut. Généralement basé autour de l'armure et de la santé, il saura aider ses coéquipiers et retourner le combat lors des duels entre équipes.
+			</div>
+			<div class="player--role">				
+				MidLaner : Le midlaner est le rôle au centre d'une partie, c'est celui qui occupe la voie du milieu, la voie la plus importante à protéger. Un midlaners qui prend l'avantage sur son opposant est souvent synonyme de victoire pour son équipe. Un rôle ou la concentration est mise à épreuve.
+			</div>
+			<div class="player--role">
+				
+				ADC : L'ADC est un rôle qui a sa part d'importance, situé sur la voie du bas, c'est celui qui fais le plus de dommage sur la durée dans une équipe. Souvent fragile face aux coups adverses, son positionnement est très important dans les combats entre équipes afin d'éviter le plus de dommages pour en infliger le plus possible.
+			</div>
+			<div class="player--role">
+				
+				Support : L'ADC étant plutôt fragile, le support est là pour l'assiter sur la voie du bas, lui donnant la possibilité d'infliger le maximum de dommage tout en le soignant, repoussant ses adversaires ou même faire office de bouclier.
+			</div>
+			<div class="player--role">
+				
+				Jungler : Le jungler est un rôle assez spécifique, contrairement au autres rôles qui occupent une voie, lui a pour but de controler la jungle. En effet son but et d'éliminer le maximum de monstres possibles afin de profiter de leurs bonus, pour ensuite aider ses cooéquipier en alternant les voyages entre les diiférentes voies. Un rôle qui met du rythme au jeu.
+			</div>
 		</div>
 	</section>
 
@@ -57,19 +77,36 @@
 			<h2>3. Les champions</h2>
 		</div>
 		<div class="content">
-			
+			<h3>Choisir son champion</h3>
+			<p>Pour tenir son rôle, le joueur a le choix entre plus d'une centaine de champions. Chacun ayant des compéténces et statistiques différentes, chaque joueur saura trouver le ou les champions qui lui conviendront. Il faudra au fur et à mesure des parties, connaitre chacun d'eux pour optimiser ses stratégies. 
+			On peut classer les champions par catégories: </p>
+			<div class="champ--role">
+				Assassin : L'assassin est un champion spécialisé, destiné à tuer d'autres Champions rapidement. Il est généralement un bon combattant avec d'importants dégâts sur une courte durée (burst). Certains ont des formes d'invisibilité ou une facilité aux embuscades et une grande mobilité. L'assassin est néanmoins fragile.
+			</div>
+			<div class="champ--role">
+				Tank : Le tank a été conçu pour encaisser de nombreux dégâts. Il a généralement une bonne santé, de l'armure, de la résistance magique et peut se soigner et/ou régénérer ses points de vie. Il possède des capacités qui vont lui permettre de subir les dégâts à la place de son équipe. Il possède le plus souvent des sorts lui permettant d'engager les combats d'équipes (team fight).
+			</div>
+			<div class="champ--role">
+				Mage : Le mage est un champion dont les principaux dégâts sont réalisés grâce à ses compétences. Il reste généralement à l'arrière de ses alliés à cause de sa relative fragilité. Le mage est le personnage ayant le plus haut potentiel de dommage à un instant T (ou burst) ; réduisant considérablement les PV des cibles, mais ne pouvant pas attaquer en continu.
+			</div>
+			<div class="champ--role">
+				Tireur : Le tireur est faible et souvent fragile en début de partie mais c'est un champion qui, par l'acquisition d'item, va pouvoir s'équiper dans le but d'infliger le plus de dégâts possible vers la fin de la partie (late game). Il occasionne plutôt des dégâts physiques grâce à ses attaques de base, sa portée d'attaque étant généralement élevée
+			</div>
+			<div class="champ--role">
+				Support : Comme son nom l'indique, le support (ou soutien) a un potentiel de dommages limité mais ce type de champion a été conçu dans le but direct d'aider l'équipe. C'est par le contrôle de ses adversaire ou les bonus qu'il procure à ses aliés qu'il saura briller dans un combat
+			</div>
 		</div>
 	</section>
 
 
-	<section class="around" id="around">
+	<!--<section class="around" id="around">
 		<div class="presentation">
 			<h2>4. Autour du jeu</h2>
 		</div>
 		<div class="content">
 			
 		</div>
-	</section>
+	</section>-->
 
 
 	<section class="footer">
